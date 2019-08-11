@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893514389238",
+    "firebase_url": "https://chat-5076d.firebaseio.com",
+    "project_id": "chat-5076d",
+    "storage_bucket": "chat-5076d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893514389238:android:56bbe8984a53d30a",
+        "android_client_info": {
+          "package_name": "com.mctech.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893514389238-6rb2i4r764olnll5u7mtvj9eu88nu8a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKeNJWbCCjmfwHYz4CgWNyMOzn3BczqR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893514389238-6rb2i4r764olnll5u7mtvj9eu88nu8a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
